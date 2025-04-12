@@ -2,7 +2,7 @@
 
 A robotics project aimed at developing a mobile platform capable of omnidirectional motion using Mecanum wheels. This robot is controlled via Bluetooth using an Android smartphone and is built on the Arduino platform.
 
-![Mecanum Robot Setup](./images/mecanum_setup.jpg) <!-- Add image if available -->
+![Mecanum Robot Setup](Mecanum_setup.png) <!-- Add image if available -->
 
 ## Features
 
