@@ -61,11 +61,6 @@ Each wheel has angled rollers (approximately 45°) allowing vector control of mo
 - Integrate PID control using IMU and encoders
 - Fix serial communication to enable dynamic speed control
 
-## Repository
-
-Source code and documentation:  
-[Control-of-Mecanum-wheels GitHub Repo](https://github.com/nrk-necro/Control-of-Mecanum-wheels.git)
-
 ## Contributors
 
 - Madhupriya  
